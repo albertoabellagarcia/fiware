@@ -1,8 +1,8 @@
-# {{COUNCIL AGENDA}}
+#COUNCIL AGENDA
 
 ## Description
 
-{{Data Model Description}}
+Public agenda of Mayor, Councilors, Executives, Eventual and other management personnel.
 
 ## Data Model
 
